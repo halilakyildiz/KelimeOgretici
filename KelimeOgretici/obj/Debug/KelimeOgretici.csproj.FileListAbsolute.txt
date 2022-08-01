@@ -1,0 +1,10 @@
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\bin\Debug\KelimeOgretici.exe.config
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\bin\Debug\KelimeOgretici.exe
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\bin\Debug\KelimeOgretici.pdb
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.csprojAssemblyReference.cache
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.Form1.resources
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.Properties.Resources.resources
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.csproj.GenerateResource.cache
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.csproj.CoreCompileInputs.cache
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.exe
+C:\Users\AKYILDIZ-PC\Desktop\KelimeOgretici\KelimeOgretici\obj\Debug\KelimeOgretici.pdb
